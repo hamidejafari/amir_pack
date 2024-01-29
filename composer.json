@@ -1,0 +1,16 @@
+{
+    "name": "hamide/amir_pack",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Hamide",
+            "email": "hamideh9696@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Hamide\\": "./src"
+        }
+    },
+    "require": {}
+}
